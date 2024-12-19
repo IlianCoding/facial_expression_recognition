@@ -165,5 +165,5 @@ data/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-/dataset/FERPlus-master/fer2013.csv
-/dataset/FERPlus-master/fer2013new.csv
+dataset/FERPlus-master/fer2013.csv
+dataset/FERPlus-master/fer2013new.csv

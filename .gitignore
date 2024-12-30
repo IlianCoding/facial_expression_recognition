@@ -167,3 +167,5 @@ data/
 
 dataset/FERPlus-master/fer2013.csv
 dataset/FERPlus-master/fer2013new.csv
+
+models/logs/
